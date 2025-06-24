@@ -1,27 +1,29 @@
 # SwapItSmart Proteomics
 
-An intelligent conversational assistant for proteomics research, helping scientists optimize their experiments and analyze protein data.
+An intelligent conversational assistant for food proteomics analysis, helping consumers and researchers understand the protein content and composition of various foods.
 
 ## Overview
 
-SwapItSmart Proteomics is an AI-powered chatbot designed to assist researchers in the field of proteomics. It provides intelligent recommendations for protein analysis, experimental design, and data interpretation, making complex proteomics workflows more accessible and efficient.
+SwapItSmart Proteomics is an AI-powered chatbot designed to provide detailed information about proteins in food. Whether you're looking for plant-based alternatives, understanding nutritional content, or exploring protein similarities across different food sources, our system makes complex proteomics data accessible and actionable.
+
+**Try it now at [chat.swapitsmart.ai](https://chat.swapitsmart.ai)**
 
 ## Features
 
-### 🧬 Protein Analysis
-- **Protein Property Lookup**: Get detailed information about proteins including molecular weight, isoelectric point, and functional annotations
-- **Sequence Analysis**: Analyze protein sequences for various properties and characteristics
-- **Protein Density Information**: Access curated protein density data for experimental planning
+### 🥗 Food Protein Analysis
+- **Protein Content**: Discover the protein composition of various foods
+- **Nutritional Profiles**: Get detailed breakdowns of proteins found in different food sources
+- **Protein Comparisons**: Compare protein profiles between different foods
 
-### 🔬 Experimental Design
-- **Protocol Recommendations**: Receive suggestions for optimal experimental conditions based on your protein of interest
-- **Method Selection**: Get guidance on choosing appropriate proteomics techniques for your research goals
-- **Sample Preparation Tips**: Learn best practices for preparing protein samples
+### 🌱 Plant-Based Alternatives
+- **Similarity Matching**: Find plant-based foods with similar protein profiles to animal products
+- **Nutritional Equivalence**: Understand how plant proteins compare to animal proteins
+- **Substitution Recommendations**: Get suggestions for protein-rich plant-based alternatives
 
-### 📊 Data Interpretation
-- **Results Analysis**: Understand your proteomics data with context-aware explanations
-- **Literature Integration**: Access relevant research findings related to your proteins of interest
-- **Statistical Guidance**: Get help with appropriate statistical analyses for your experiments
+### 📊 Protein Insights
+- **Abundance Analysis**: Learn about the most abundant proteins in different foods
+- **Functional Properties**: Understand how different proteins contribute to food texture and nutrition
+- **Allergen Information**: Get information about potential allergenic proteins in foods
 
 ### 💬 Conversational Interface
 - **Natural Language Queries**: Ask questions in plain English without needing specialized syntax
@@ -31,37 +33,39 @@ SwapItSmart Proteomics is an AI-powered chatbot designed to assist researchers i
 ## How to Use
 
 ### Getting Started
-1. Access the SwapItSmart Proteomics chatbot through the web interface
-2. Start by typing your question or describing what you need help with
-3. The system will respond with relevant information and may ask clarifying questions
+1. Visit [chat.swapitsmart.ai](https://chat.swapitsmart.ai)
+2. Type your question about food proteins
+3. Get instant, detailed responses about protein content and composition
 
 ### Example Queries
-- "What is the molecular weight of albumin?"
-- "I need to analyze membrane proteins, what extraction method should I use?"
-- "Help me understand my mass spectrometry results for protein X"
-- "What's the best way to quantify proteins in my sample?"
-- "Find proteins similar to [protein name] in function"
+- "Tell me about the protein content of chicken"
+- "What's the most abundant protein in chicken?"
+- "What is the most similar plant-based protein source to egg yolks?"
+- "Compare the protein profiles of beef and tofu"
+- "Which vegetables have the highest protein content?"
+- "What proteins are found in milk?"
+- "Find plant-based alternatives to fish protein"
 
 ### Best Practices
-- Be specific about your research context when asking questions
-- Provide relevant details about your experimental setup when seeking advice
-- Feel free to ask follow-up questions to clarify responses
-- Use protein names, identifiers, or sequences for precise queries
+- Be specific about the food or ingredient you're interested in
+- Ask about specific protein properties if you have dietary requirements
+- Compare multiple foods to find the best protein sources for your needs
+- Follow up with questions about preparation methods or bioavailability
 
 ## Architecture Overview
 
-SwapItSmart Proteomics uses a sophisticated multi-agent AI architecture designed specifically for scientific applications:
+SwapItSmart Proteomics uses a sophisticated multi-agent AI architecture designed specifically for food science applications:
 
 ### Intelligent Agent System
 The system employs specialized AI agents that work together to provide comprehensive responses:
-- **Knowledge Retrieval Agents**: Access and synthesize information from curated proteomics databases
-- **Analysis Agents**: Process protein sequences and experimental data
-- **Recommendation Agents**: Provide experimental design suggestions based on best practices
+- **Food Database Agents**: Access and synthesize information from curated food proteomics databases
+- **Comparison Agents**: Analyze protein similarities across different food sources
+- **Recommendation Agents**: Suggest alternative protein sources based on nutritional needs
 
 ### Data Integration
-- Integrates multiple proteomics databases and resources
-- Maintains up-to-date protein annotations and functional information
-- Cross-references experimental protocols and published methods
+- Integrates comprehensive food proteomics databases
+- Maintains up-to-date nutritional and protein composition data
+- Cross-references scientific literature on food proteins
 
 ### Conversational AI
 - Natural language understanding optimized for scientific terminology
@@ -75,7 +79,7 @@ The system employs specialized AI agents that work together to provide comprehen
 
 ## Privacy and Security
 
-- No experimental data is stored permanently
+- No personal dietary data is stored permanently
 - Conversations are processed securely
 - User queries are used only for providing immediate responses
 
@@ -94,21 +98,12 @@ We welcome feedback to improve SwapItSmart Proteomics:
 - Vote on existing feature requests to help prioritize development
 
 ### Community
-- Share success stories and use cases
-- Contribute to discussions about proteomics best practices
-- Help other researchers by sharing your experiences
-
-## Citation
-
-If you use SwapItSmart Proteomics in your research, please cite:
-```
-[Citation information will be added upon publication]
-```
-
-## License
-
-[License information to be added]
+- Share your favorite protein-rich recipes and alternatives
+- Contribute to discussions about sustainable protein sources
+- Help others discover new protein-rich foods
 
 ---
 
 For technical documentation and development information, please refer to the private repository (access restricted to development team).
+
+**Visit [chat.swapitsmart.ai](https://chat.swapitsmart.ai) to start exploring food proteins today!**
