@@ -10,7 +10,9 @@ body:
     id: what_happened
     attributes:
       label: What happened?
-      description: Please describe the bug in detail
+      description: |
+        Please describe the bug in detail.
+        The chat history has been automatically copied to your clipboard.
       placeholder: Tell us what you experienced and what went wrong
     validations:
       required: true

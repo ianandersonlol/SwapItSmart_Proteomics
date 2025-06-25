@@ -10,7 +10,9 @@ body:
     id: feature_description
     attributes:
       label: Feature Description
-      description: Describe the feature or improvement you'd like to see
+      description: |
+        Describe the feature or improvement you'd like to see.
+        The chat history has been automatically copied to your clipboard.
       placeholder: What would you like to add or improve?
     validations:
       required: true

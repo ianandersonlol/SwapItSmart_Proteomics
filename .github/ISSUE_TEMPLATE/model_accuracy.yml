@@ -19,7 +19,9 @@ body:
     id: what_happened
     attributes:
       label: What happened?
-      description: Describe what the model said and what was incorrect about it
+      description: |
+        Describe what the model said and what was incorrect about it.
+        The chat history has been automatically copied to your clipboard.
       placeholder: Tell us what the model responded with and why it was inaccurate
     validations:
       required: true
