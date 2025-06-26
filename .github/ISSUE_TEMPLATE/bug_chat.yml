@@ -31,4 +31,4 @@ body:
       description: What did you expect to happen?
       placeholder: Describe what should happen instead
     validations:
-      required: true
+      required: false

@@ -15,14 +15,7 @@ body:
     validations:
       required: false
 
-  - type: textarea
-    id: food_query
-    attributes:
-      label: Food or Query
-      description: What specific food or query did you ask about?
-      placeholder: "e.g., 'nutritional content of quinoa' or 'compare spinach vs kale'"
-    validations:
-      required: true
+  
 
   - type: textarea
     id: what_happened
