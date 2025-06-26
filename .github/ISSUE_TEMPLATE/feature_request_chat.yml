@@ -1,0 +1,34 @@
+name: Feature Request (from Chat)
+description: Suggest a new feature or improvement from within the chat interface
+title: "[Feature - Chat]: "
+labels: ["enhancement", "from-chat"]
+assignees:
+  - ianandersonlol
+
+body:
+  - type: textarea
+    id: conversation_history
+    attributes:
+      label: Conversation History
+      description: Please paste the relevant conversation history here
+      placeholder: "Paste conversation history here"
+    validations:
+      required: false
+
+  - type: textarea
+    id: feature_description
+    attributes:
+      label: Feature Description
+      description: Describe the feature or improvement you'd like to see
+      placeholder: What would you like to add or improve?
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any other details about your suggestion
+      placeholder: Optional - add any additional context
+    validations:
+      required: false
