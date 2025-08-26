@@ -83,6 +83,10 @@ The system employs specialized AI agents that work together to provide comprehen
 - Conversations are processed securely
 - User queries are used only for providing immediate responses
 
+## Recent Updates
+
+See our [CHANGELOG.md](CHANGELOG.md) for the latest improvements, feature additions, and system updates.
+
 ## Feedback and Support
 
 We welcome feedback to improve SwapItSmart Proteomics:
