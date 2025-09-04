@@ -85,7 +85,7 @@ The system employs specialized AI agents that work together to provide comprehen
 
 ## Recent Updates
 
-See our [CHANGELOG.md](CHANGELOG.md) for the latest improvements, feature additions, and system updates.
+See our [Change Log](CHANGELOG.md) for the latest improvements, feature additions, and system updates.
 
 ## Feedback and Support
 
@@ -109,5 +109,6 @@ We welcome feedback to improve SwapItSmart Proteomics:
 ---
 
 For technical documentation and development information, please refer to the private repository (access restricted to development team).
+
 
 **Visit [chat.swapitsmart.ai](https://chat.swapitsmart.ai) to start exploring food proteins today!**
